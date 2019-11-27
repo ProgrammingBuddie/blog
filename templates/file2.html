@@ -1,0 +1,13 @@
+{% extends 'file1.html' %}
+
+{% block title %}
+    <title>Shankar</title>
+{% endblock %}
+
+{% block content %}
+    Name: {{ name }}
+
+    {% for num in data %}
+        <p>{{ num }}</p>
+    {% endfor %}
+{% endblock %}

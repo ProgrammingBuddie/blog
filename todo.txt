@@ -1,0 +1,22 @@
+BLOG
+    database:
+        user login/signup table
+        blog table
+        contact us
+        
+
+    frontend
+        blog page:
+            blog add/update/delete
+            blog single view
+            all blogs view page
+
+        user login/sign up page
+            using google/facebook
+
+        admin panel
+
+    backend
+        admin 
+        normal user
+        mvc structure
